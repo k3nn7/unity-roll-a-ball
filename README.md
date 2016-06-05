@@ -1,5 +1,5 @@
 # Roll-a-Ball
 
-Tutorial project for Unit3D
+Unity3D tutorial project - Roll-a-Ball game.
 
 https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial
